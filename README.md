@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IslemMedjahdi
 - 🎓 I'm a computer science student 
-- 👀 I love problems solving (LeetCode - HackerRank )
+- 👀 I love problems solving (LeetCode )
 - 🌱 I’m currently learning Front-end Development
 
 <!---
