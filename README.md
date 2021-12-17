@@ -30,11 +30,6 @@
 <br>
 <br>
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-<!--START_SECTION:activity-->
-1. 🗣 MINI PROJECT CHALLENGE USING VANILLA JAVASCRIPT <br>
-</details>
 
 <img align="left" alt="medjahdi github status" src="https://github-readme-stats.vercel.app/api?username=IslemMedjahdi&hide=contribs,prs" />
 
