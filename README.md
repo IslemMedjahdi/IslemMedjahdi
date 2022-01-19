@@ -16,22 +16,21 @@
 ### Languages and Tools:
 <a href="https://www.w3.org/html/" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-            alt="html5" width="35" height="35" /> </a>&#160;
+            alt="html5" width="32" height="32" /> </a>&#160;
 <a href="https://www.w3schools.com/css/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-            alt="css3" width="35" height="35" /> </a>&#160;
+            alt="css3" width="32" height="32" /> </a>&#160;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
         target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-            alt="javascript" width="35" height="35" /> </a>&#160;
+            alt="javascript" width="32" height="32" /> </a>&#160;
 <a href="https://tailwindcss.com/" target="_blank"> <img
-            src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="35"
-            height="35" /> </a>&#160;
-<a href="https://getbootstrap.com" target="_blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-                alt="bootstrap" width="35" height="35" /> </a> &#160;
+            src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="32"
+            height="32" /> </a>&#160;
 <a href="https://git-scm.com/" target="_blank"> <img
-            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35" /> </a>&#160;
+            src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="git" width="32" height="32" /> </a>&#160;
+<a href="https://git-scm.com/" target="_blank"> <img
+            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="32" height="32" /> </a>&#160;
 
 
 
@@ -40,9 +39,10 @@
 <br>
 <br>
 
-
+<div>
 <img align="left" alt="medjahdi github status" src="https://github-readme-stats.vercel.app/api?username=IslemMedjahdi&hide=contribs,prs" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=IslemMedjahdi&show_icons=true&locale=en&layout=compact" alt="IslemMedjahdi" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=IslemMedjahdi&show_icons=true&locale=en&layout=compact" alt="IslemMedjahdi" />
+ </div>
 
 
 [facebook]: https://www.facebook.com/islem.medjahdi.9
