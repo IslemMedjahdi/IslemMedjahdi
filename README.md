@@ -27,9 +27,9 @@
 <a href="https://tailwindcss.com/" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="32"
             height="32" /> </a>&#160;
-<a href="https://redux-toolkit.js.org/" target="_blank"> <img
+<a href="https://fr.reactjs.org/" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="git" width="32" height="32" /> </a>&#160;
-<a href="https://fr.reactjs.org//" target="_blank"> <img
+<a href="https://redux-toolkit.js.org/" target="_blank"> <img
             src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="git" width="32" height="32" /> </a>&#160;
 <a href="https://git-scm.com/" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="32" height="32" /> </a>&#160;
