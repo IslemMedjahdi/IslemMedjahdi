@@ -5,10 +5,10 @@
 - 📮  How to reach me: ki_medjahdi@esi.dz 
 
 ### Please feel free to contact me:
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://image.flaticon.com/icons/png/512/2111/2111392.png" />][facebook]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][LinkedIn]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" />][facebook]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />][instagram]
 
 <br>
 <br>
@@ -29,8 +29,10 @@
             height="32" /> </a>&#160;
 <a href="https://fr.reactjs.org/" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="git" width="32" height="32" /> </a>&#160;
-<a href="https://redux-toolkit.js.org/" target="_blank"> <img
+<a href="https://redux-toolkit.js.org/" target="_blank"> <img 
             src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="git" width="32" height="32" /> </a>&#160;
+<a href="https://firebase.google.com/" target="_blank"> <img
+            src="https://avatars.githubusercontent.com/u/42357678?v=4&s=160" alt="firebase" width="32" height="32" /> </a>&#160;
 <a href="https://git-scm.com/" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="32" height="32" /> </a>&#160;
 
@@ -50,6 +52,7 @@
 [facebook]: https://www.facebook.com/islem.medjahdi.9
 [twitter]: https://twitter.com/IslemMedjahdi
 [instagram]: https://www.instagram.com/islem_medjahdi/
+[LinkedIn]: https://www.linkedin.com/in/islem-medjahdi/
 <!---
 IslemMedjahdi/IslemMedjahdi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
