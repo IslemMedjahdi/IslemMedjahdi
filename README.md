@@ -24,6 +24,10 @@
         target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
             alt="javascript" width="32" height="32" /> </a>&#160;
+<a href="https://www.typescriptlang.org/"
+        target="_blank"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+            alt="javascript" width="32" height="32" /> </a>&#160;
 <a href="https://tailwindcss.com/" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="32"
             height="32" /> </a>&#160;
