@@ -1,6 +1,6 @@
 ## Hi there, I'm Islem Medjahdi  👋
 - 🎓  I'm a 3rd year computer science student - Ecole Nationale Supérieure d'Informatique -
-- 🌱  I’m currently learning Front-end Development 
+- 🌱  I’m a junior web front end developer
 - 💬  You can ask me about anything i know. I would be glad to share with you what I know
 - 🚀 check my portfolio : [Portfolio](https://islem-medjahdi-portfolio.vercel.app/)
 - 📮  How to reach me: ki_medjahdi@esi.dz 
@@ -34,6 +34,10 @@
             height="32" /> </a>&#160;
 <a href="https://fr.reactjs.org/" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="git" width="32" height="32" /> </a>&#160;
+<a href="https://nextjs.org/"
+        target="_blank"> <img
+            src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-dsc/events/nextjs-boilerplate-logo.png"
+            alt="nextjs" width="32" height="32" /> </a>&#160;
 <a href="https://redux-toolkit.js.org/" target="_blank"> <img 
             src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="git" width="32" height="32" /> </a>&#160;
 <a href="https://firebase.google.com/" target="_blank"> <img
