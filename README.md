@@ -1,5 +1,5 @@
 ## Hi there, I'm Islem Medjahdi  👋
-- 🎓  I'm a 2nd year computer science student - Ecole Nationale Supérieure d'Informatique -
+- 🎓  I'm a 3rd year computer science student - Ecole Nationale Supérieure d'Informatique -
 - 🌱  I’m currently learning Front-end Development 
 - 💬  You can ask me about anything i know. I would be glad to share with you what I know
 - 🚀 check my portfolio : [Portfolio](https://islem-medjahdi-portfolio.vercel.app/)
