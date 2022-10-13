@@ -1,6 +1,6 @@
 ## Hi there, I'm Islem Medjahdi  👋
 - 🎓  I'm a 3rd year computer science student - Ecole Nationale Supérieure d'Informatique -
-- 🌱  I’m a junior web front end developer
+- 🌱  I’m a Fullstack web developer
 - 💬  You can ask me about anything i know. I would be glad to share with you what I know
 - 🚀 check my portfolio : [Portfolio](https://islem-medjahdi-portfolio.vercel.app/)
 - 📮  How to reach me: ki_medjahdi@esi.dz 
